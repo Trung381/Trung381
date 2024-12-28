@@ -14,11 +14,12 @@
       <li>Docker</li>
       <li>😮‍💨</li>
     </ul>
-<!--   </div>
-  <a href="https://app.daily.dev/mlemingcapoo"><img src="https://api.daily.dev/devcards/v2/at7xZusBnt4d1dT7B2Nvm.png?type=wide&r=hzs" width="652" alt="Trung's Dev Card"/></a><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mlemingcapoo&show_icons=true&theme=gotham"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlemingcapoo&langs_count=6&show_icons=true&theme=gotham"/>
-</div> -->
+  </div>
+  <a href="https://app.daily.dev/trung381"><img src="https://api.daily.dev/devcards/v2/1uU6gu6HDBVIPRftoRPQC.png?type=wide&r=jow" width="652" alt="Trung's Dev Card"/></a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=trung381&show_icons=true&theme=gotham"/> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trung381&langs_count=6&show_icons=true&theme=gotham"/>
+</div>
 
 <br>
 <!---

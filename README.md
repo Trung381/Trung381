@@ -2,22 +2,26 @@
 
 
 <div align="center">
-  <b>@mlemingcapoo</b><br>
+  <b>@trung381</b><br>
   <div>
     <ul>
-      <li>make my dream game</li>
+      <li>try harder, because of tears</li>
       <li>Vietnamese</li>
-      <li>Learning java, spring, laravel, Vue for web dev</li>
-      <li>FPT College</li>
+      <li>Java, C/C++, C#, python, Go</li>
+      <li>Spring boot, DotNet, Laravel for backend</li>
+      <li>Vue, React, htmx, bootstrap, tailwind for frontend</li>
+      <li>Github action, gitlab for CICD</li>
+      <li>Docker</li>
+      <li>😮‍💨</li>
     </ul>
-  </div>
+<!--   </div>
   <a href="https://app.daily.dev/mlemingcapoo"><img src="https://api.daily.dev/devcards/v2/at7xZusBnt4d1dT7B2Nvm.png?type=wide&r=hzs" width="652" alt="Trung's Dev Card"/></a><br>
   <img src="https://github-readme-stats.vercel.app/api?username=mlemingcapoo&show_icons=true&theme=gotham"/> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlemingcapoo&langs_count=6&show_icons=true&theme=gotham"/>
-</div>
+</div> -->
 
 <br>
 <!---
-mlemingcapoo/mlemingcapoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trung381 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

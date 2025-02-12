@@ -8,7 +8,7 @@
       <li>try harder, because of tears</li>
       <li>Vietnamese</li>
       <li>Java, C/C++, C#, python, Go</li>
-      <li>Spring boot, DotNet, Laravel for backend</li>
+      <li>Spring boot, Express, DotNet, Laravel for backend</li>
       <li>Vue, React, htmx, bootstrap, tailwind for frontend</li>
       <li>Github action, gitlab for CICD</li>
       <li>Docker</li>

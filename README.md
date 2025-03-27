@@ -1,8 +1,6 @@
-
-
-
 <div align="center">
-  <b>@trung381</b><br>
+  <img src="asset/pedro.gif">
+  <b style="color : #FFFFF;">@trung381</b><br>
   <div>
     <ul>
       <li>try harder, because of tears</li>

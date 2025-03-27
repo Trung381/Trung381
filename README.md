@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="asset/pedro.gif">
+  <img src="asset/pedro-nobackground.gif">
   <b style="color : #FFFFF;">@trung381</b><br>
   <div>
     <ul>
